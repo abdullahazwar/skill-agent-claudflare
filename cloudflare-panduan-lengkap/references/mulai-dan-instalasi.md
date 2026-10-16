@@ -9,7 +9,7 @@
 
 ## Memasang dan memanggil skill
 
-Repo distribusi bernama skill-claudflare-agent. Folder skill bernama cloudflare-panduan-lengkap. Pertahankan ejaan keduanya.
+Repo distribusi bernama skill-agent-claudflare. Folder skill bernama cloudflare-panduan-lengkap. Pertahankan ejaan keduanya.
 
 Pada Codex dengan discovery skill lokal, salin folder cloudflare-panduan-lengkap ke direktori skills yang digunakan instalasi. Contoh umum ialah ~/.codex/skills/cloudflare-panduan-lengkap. Pada Work Mode, gunakan skill yang tersimpan di halaman Skills. Periksa instruksi produk bila lokasi discovery berbeda.
 
