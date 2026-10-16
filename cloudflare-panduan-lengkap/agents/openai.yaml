@@ -1,0 +1,12 @@
+interface:
+  display_name: Cloudflare Panduan Lengkap
+  short_description: Bangun, deploy, dan rawat proyek Cloudflare.
+  default_prompt: Gunakan $cloudflare-panduan-lengkap untuk merancang, membangun,
+    menguji, dan men-deploy proyek Cloudflare sesuai kebutuhan.
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true
